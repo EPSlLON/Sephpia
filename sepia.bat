@@ -1,8 +1,8 @@
 cd /
 cd xampp
 cd htdocs
-mkdir halospot
-cd halospot
+mkdir sephpia
+cd sephpia
 mkdir assets
 mkdir system
 cd system
